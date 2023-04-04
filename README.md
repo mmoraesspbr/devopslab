@@ -8,6 +8,7 @@
 
 ## Aplicação Simples em Python/Flask com teste usando Unittest
 ![GitHub CI](https://github.com/mmoraesspbr/devopslab/actions/workflows/pipeline.yml/badge.svg)
+
 ![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/mmoraesspbr/devopslab/pipeline.yml?style=plastic)
 
 
