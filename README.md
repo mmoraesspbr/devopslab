@@ -7,9 +7,10 @@
 </div>
 
 ## Aplicação Simples em Python/Flask com teste usando Unittest
-![GitHub CI](https://github.com/mmoraesspbr/devopslab/actions/workflows/pipeline.yml/badge.svg)
-
 ![GitHub Workflow Status (with branch)](https://img.shields.io/github/actions/workflow/status/mmoraesspbr/devopslab/pipeline.yml?style=plastic)
+![GitHub CI](https://github.com/mmoraesspbr/devopslab/actions/workflows/pipeline.yml/badge.svg)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mmoraesspbr_devopslab&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mmoraesspbr_devopslab)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=mmoraesspbr_devopslab&metric=coverage)](https://sonarcloud.io/summary/new_code?id=mmoraesspbr_devopslab)
 
 
 
