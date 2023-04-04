@@ -9,7 +9,7 @@
 ## Aplicação Simples em Python/Flask com teste usando Unittest
 ![GitHub CI](https://github.com/mmoraesspbr/devopslab/actions/workflows/pipeline.yml/badge.svg)
 
-![Branch](https://github.com/mmoraesspbr/devopslab/actions/workflows/pipeline.yml/badge.svg?branch=feature-1)
+![Branch](https://github.com/mmoraesspbr/devopslab/actions/workflows/pipeline.yml/badge.svg?branch=master)
 
 ![Event parameter](https://github.com/mmoraesspbr/devopslab/actions/workflows/pipeline.yml/badge.svg?event=push)
 
